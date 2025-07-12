@@ -1,4 +1,4 @@
-# Brain Tumor Detection Research Project
+# Brain MRI Analysis Project
 
 This repository contains the work executed during my research internship at VIGIL labs of IIT Hyderabad. The research focused on establishing similarities between brain tumor detection datasets and implementing various methods for information extraction and dataset comparison.
 
